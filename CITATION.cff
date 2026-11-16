@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this tool, please acknowledge it by citing the article below."
+title: "TCS-56 Programme Alignment Tool"
+abstract: "MATLAB tool that assesses one programme's curriculum against the IAEA TCS-56 medical physics education standard."
+type: software
+license: MIT
+version: "1.0"
+date-released: "2026-11-16"
+repository-code: "https://github.com/hafizmz/tcs56-programme-alignment"
+authors:
+  - family-names: "Mohd Zin"
+    given-names: "Hafiz"
+preferred-citation:
+  type: article
+  title: "Medical Physics Education in Malaysia: A Critical Analysis against the IAEA TCS-56 Curriculum Standard"
+  authors:
+    - family-names: "Mohd Zin"
+      given-names: "Hafiz"
+  notes: "Manuscript submitted to Physica Medica; full author list, volume and DOI to be added on publication."

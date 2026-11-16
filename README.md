@@ -71,5 +71,8 @@ When a synopsis is supplied, an item suggested only by the title is dropped if t
 The result is an automated, indicative mapping based on course titles, synopses and keyword rules. It cannot judge the depth or quality of teaching, and it is **not** an accreditation, MQA or MAHPC registration decision. For bachelor's programmes, professional/clinical items show undergraduate exposure only, because TCS-56 places that content at postgraduate level. Institutions in Appendix A are anonymised as University A–H. The keyword rules in `code/tcs56_config.m` can be adjusted.
 
 ## Licence and citation
-[To be completed by the authors: licence (e.g. MIT or CC BY 4.0) and repository DOI.]
-If you use this tool, please cite the manuscript above.
+Released under the MIT Licence (see `LICENSE`). You are free to use, modify and share the tool, provided the copyright and licence notice is kept. If you use it in your work, please acknowledge it by citing:
+
+Mohd Zin H, et al. Medical Physics Education in Malaysia: A Critical Analysis against the IAEA TCS-56 Curriculum Standard. *Physica Medica* (submitted).
+
+GitHub's **"Cite this repository"** button gives this citation in APA and BibTeX formats.
