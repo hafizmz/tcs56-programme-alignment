@@ -1,0 +1,22 @@
+Course,CU,Type,Synopsis
+Physics for Radiographers,3,Core,"Basic mechanics, electricity, atomic structure and production of x-rays."
+Mathematics for Health Sciences,2,Core,"Algebra, basic statistics and graphs for health applications."
+Human Anatomy I,3,Core,"Anatomy of the skeletal, muscular and cardiovascular systems; human body organisation."
+Human Physiology,3,Core,"Physiology of organ systems, tissue function and homeostasis."
+Radiobiology,2,Core,"Cellular effects of radiation, DNA damage, cell survival, fractionation, deterministic and stochastic effects."
+Radiation Protection and Safety,3,Core,"Dose limits, ALARA, shielding, personnel monitoring and radiation safety regulation."
+Principles of Imaging,3,Core,"Image formation, image quality, spatial resolution, contrast and noise."
+General Radiography,4,Core,Radiographic positioning and techniques for skeletal and chest radiography.
+Computed Tomography,3,Core,"CT scanner components, image reconstruction, CT techniques and protocols."
+Magnetic Resonance Imaging,3,Core,"MRI principles, pulse sequences, MRI safety and protocols."
+Ultrasound Imaging,2,Core,"Ultrasound principles, transducers and clinical scanning."
+Nuclear Medicine Imaging,3,Core,"Radiopharmaceuticals, gamma camera, SPECT and PET imaging procedures."
+Principles of Radiotherapy,3,Core,"External beam radiotherapy, linear accelerator, treatment techniques and patient setup."
+Radiotherapy Treatment Planning,3,Core,"Treatment planning, dose distributions, IMRT and VMAT planning techniques."
+Radiation Dosimetry,2,Elective,"Absorbed dose, ionisation chamber measurements, calibration and dosimetry protocols."
+Clinical Practice I,4,Core,Supervised clinical placement in diagnostic imaging.
+Clinical Practice II,4,Core,Supervised clinical placement in radiotherapy.
+Ethics and Professional Practice,2,Core,"Professional ethics, communication, patient care and law."
+Research Methodology,2,Core,"Research design, statistics and research proposal."
+Research Project,4,Core,Supervised research project and dissertation.
+University Courses (bundled),16,Core,

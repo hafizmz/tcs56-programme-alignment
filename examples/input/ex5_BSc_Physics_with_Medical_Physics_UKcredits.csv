@@ -1,0 +1,21 @@
+Course,CU,Type,Synopsis
+Mathematical Methods I,15,Core,"Vectors, matrices, eigenvalues, differential and integral calculus, ordinary differential equations."
+Mathematical Methods II,15,Core,"Complex variables and analytic functions, Fourier series, Laplace transform, partial differential equations."
+Practical Physics and Computing,15,Core,"Laboratory experiments and Python programming, numerical methods and data analysis."
+Classical Mechanics,15,Core,"Newton laws, oscillations, Lagrangian mechanics and rigid body dynamics."
+Electricity and Magnetism,15,Core,"Electrostatics, magnetic fields, induction, Maxwell equations, circuits."
+Quantum Physics,15,Core,"Photoelectric effect, de Broglie waves, Schrodinger equation, hydrogen atom, special relativity."
+Thermal Physics,15,Core,"Thermodynamics, entropy, kinetic theory of gases, statistical mechanics and Boltzmann distribution."
+Waves and Optics,15,Core,"Wave motion, interference, diffraction, polarisation and lasers; fluid waves and acoustics."
+Atomic and Nuclear Physics,15,Core,"Atomic structure, nuclear structure, radioactive decay and binding energy."
+Solid State Physics,15,Core,"Crystal lattice, band theory, semiconductors."
+Medical Electronics,15,Core,"Amplifiers, filters, sampling and signal processing of physiological signals."
+Physics of the Human Body,15,Core,Anatomy and physiology of the human body from a physics perspective.
+Introduction to Medical Imaging,15,Core,"Image formation, image quality, x-ray, CT, MRI and ultrasound imaging."
+Treatment with Ionising Radiation,15,Core,"Radiotherapy, linear accelerator, treatment planning, radiobiology and dosimetry."
+Research Project,30,Core,Research project and dissertation in medical physics.
+Nuclear Medicine and PET,15,Elective,"Radionuclides, gamma camera, SPECT and PET imaging."
+Radiation Protection,15,Elective,"Dose limits, shielding, ICRP and radiation safety."
+Physical Cosmology,15,Elective,Cosmology and general relativity.
+Lasers and Modern Optics,15,Elective,Laser physics and photonics.
+Fluid Dynamics,15,Elective,"Viscosity, Bernoulli equation, Navier-Stokes equations."

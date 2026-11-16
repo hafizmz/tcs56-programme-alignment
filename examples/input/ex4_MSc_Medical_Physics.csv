@@ -1,0 +1,13 @@
+Course,CU,Type,Synopsis
+Anatomy and Physiology for Medical Physics,3,Core,Human anatomy and physiology relevant to imaging and radiotherapy; organ and tissue structure.
+Radiation Physics,3,Core,"Interaction of radiation with matter, photon interaction, charged particle stopping power, x-ray production."
+Radiation Dosimetry,3,Core,"Cavity theory, ionisation chamber dosimetry, absorbed dose calibration, TLD and radiation detectors."
+Radiobiology,2,Core,"Cell survival, linear-quadratic model, fractionation, oxygen enhancement and radiosensitivity."
+Radiation Protection,3,Core,"Shielding design, dose limits, ICRP recommendations, licensing and personnel monitoring."
+Medical Imaging Physics,4,Core,"Image formation and image quality; radiography, computed tomography, MRI and ultrasound physics; image reconstruction."
+Radiotherapy Physics,4,Core,"Linear accelerator, external beam dosimetry, treatment planning, brachytherapy, IMRT and VMAT."
+Nuclear Medicine Physics,3,Core,"Radionuclide production, radiopharmaceuticals, gamma camera, SPECT and PET."
+Professional Development in Medical Physics,2,Core,"Ethics, professionalism, quality management systems, communication and leadership."
+Medical Physics Laboratory,3,Core,"Practical laboratory experiments in dosimetry, imaging quality control and radiotherapy."
+Research Project,8,Core,Research methodology and dissertation in medical physics.
+Artificial Intelligence in Medical Physics,2,Elective,"Machine learning, Python programming and data analysis for medical images."
