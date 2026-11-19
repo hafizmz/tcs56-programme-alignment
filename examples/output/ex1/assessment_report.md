@@ -38,13 +38,13 @@ Level: Bachelor. Input: University (course list). Generated 2026-11-16.
 | Radiation Physics | Dedicated (elective only) | High | Radiation Physics (High) | Reached only through electives: a graduate may not have taken it. |
 | Radiation Protection | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Professional and Scientific Development | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
-| Research Project | Dedicated | High | Final Year Project (High) |  |
+| Research Methodology | Dedicated | High | Final Year Project (High) |  |
 | Medical Imaging Fundamentals | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Radiation Dosimetry | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Radiation Oncology | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Nuclear Medicine | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Diagnostic and Interventional Radiology | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
-| Advanced topics laboratory | Split | Low | Physics Laboratory I (Low); Physics Laboratory II (Low) | Inferred from a course title only; confirm against the syllabus. |
+| Practical Sessions | Split | Low | Physics Laboratory I (Low); Physics Laboratory II (Low) | Inferred from a course title only; confirm against the syllabus. |
 
 ## Gaps
 
@@ -56,7 +56,7 @@ Level: Bachelor. Input: University (course list). Generated 2026-11-16.
 | Low | Complex Variables | Part of broader only | Single broad course. |
 | Low | Differential Equations | Part of broader only | Single broad course. |
 | Low | Quantum Mechanics | Part of broader only | Single broad course. |
-| Low | Advanced topics laboratory | Coverage uncertain | Title-only evidence. |
+| Low | Practical Sessions | Coverage uncertain | Title-only evidence. |
 
 ## Caveats
 
