@@ -41,7 +41,7 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
 
   C.2   University B: Bachelor degree in Medical Radiation   136   136   11.0%   7/15   11/12
 
-  C.3   University C: Bachelor degree in Diagnostic Imaging   154   156   3.2%   1/15   10/12
+  C.3   University C: Bachelor degree in Diagnostic Imaging and Radiotherapy   154   156   3.2%   1/15   10/12
 
   D.1   University A: Master degree in Medical Physics   42   42   ---   ---   12/12
 
@@ -95,13 +95,13 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   33   Radiation Physics\*   3   Radiation Physics   Dedicated
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  34   Project   8   Research Project   Dedicated
+  34   Project   8   Research Methodology   Dedicated
   ---   ---   ---   Medical Imaging Fundamentals   ---
   ---   ---   ---   Radiation Dosimetry   ---
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -181,13 +181,13 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   ---   ---   ---   Radiation Physics   ---
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  22   Pure Physics Project   8   Research Project   Dedicated
+  22   Pure Physics Project   8   Research Methodology   Dedicated
   ---   ---   ---   Medical Imaging Fundamentals   ---
   ---   ---   ---   Radiation Dosimetry   ---
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -255,14 +255,14 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   30   Medical Radiation Physics\*   2   Radiation Physics   Dedicated
   31   Radiation Safety Management   2   Radiation Protection   Dedicated
   ---   ---   ---   Professional and Scientific Development   ---
-  32   Academic/Research Training I   2   Research Project   Split
-  33   Academic/Research Training II   6   Research Project   Split
+  32   Academic/Research Training I   2   Research Methodology   Split
+  33   Academic/Research Training II   6   Research Methodology   Split
   ---   ---   ---   Medical Imaging Fundamentals   ---
   ---   ---   ---   Radiation Dosimetry   ---
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -345,13 +345,13 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   22   Radiation Physics and Radiobiology\*   3   Radiation Physics   Dedicated
   ---   ---   ---   Radiation Protection   ---
   23   Quality Management System in Science\*   3   Professional and Scientific Development   Dedicated
-  24   Bachelor Dissertation   6   Research Project   Dedicated
+  24   Bachelor Dissertation   6   Research Methodology   Dedicated
   ---   ---   ---   Medical Imaging Fundamentals   ---
   ---   ---   ---   Radiation Dosimetry   ---
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  25   Advanced Physics Practicals   3   Advanced topics laboratory   Dedicated
+  25   Advanced Physics Practicals   3   Practical Sessions   Dedicated
 
   ***Other courses***
 
@@ -417,14 +417,14 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   ---   ---   ---   Radiation Physics   ---
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  23   Final Year Project   4   Research Project   Split
-  24   Research Proposal   2   Research Project   Split
+  23   Final Year Project   4   Research Methodology   Split
+  24   Research Proposal   2   Research Methodology   Split
   ---   ---   ---   Medical Imaging Fundamentals   ---
   ---   ---   ---   Radiation Dosimetry   ---
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  25   Advanced Physics Laboratory   3   Advanced topics laboratory   Dedicated
+  25   Advanced Physics Laboratory   3   Practical Sessions   Dedicated
 
   ***Other courses***
 
@@ -506,13 +506,13 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   ---   ---   ---   Radiation Physics   ---
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  26   Physics Group Project   15   Research Project   Dedicated
+  26   Physics Group Project   15   Research Methodology   Dedicated
   ---   ---   ---   Medical Imaging Fundamentals   ---
   ---   ---   ---   Radiation Dosimetry   ---
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -568,13 +568,13 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   20   Nuclear and Radiation Physics   6   Radiation Physics   Dedicated
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  21   Capstone Project   6   Research Project   Dedicated
+  21   Capstone Project   6   Research Methodology   Dedicated
   ---   ---   ---   Medical Imaging Fundamentals   ---
   22   Detection of Radiation: Neutrons, Electrons and X Rays   6   Radiation Dosimetry   Dedicated
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -632,14 +632,14 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   23   Radiation Dosimetry and Detection\*   3   Radiation Physics   Part of broader
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  24   Final Year Project I   2   Research Project   Split
-  25   Final Year Project II   4   Research Project   Split
+  24   Final Year Project I   2   Research Methodology   Split
+  25   Final Year Project II   4   Research Methodology   Split
   ---   ---   ---   Medical Imaging Fundamentals   ---
   26   Radiation Dosimetry and Detection\*   3   Radiation Dosimetry   Dedicated
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -718,14 +718,14 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   ---   ---   ---   Radiation Physics   ---
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  21   Final Year Project I   2   Research Project   Split
-  22   Final Year Project II   4   Research Project   Split
+  21   Final Year Project I   2   Research Methodology   Split
+  22   Final Year Project II   4   Research Methodology   Split
   ---   ---   ---   Medical Imaging Fundamentals   ---
   23   Radiation Detection and Dosimetry   3   Radiation Dosimetry   Dedicated
   24   Radiotherapy and Nuclear Medicine Physics   3   Physics of Radiation Oncology   Part of broader
   25   Radiotherapy and Nuclear Medicine Physics   3   Physics of Nuclear Medicine   Part of broader
   26   Diagnostic Radiology Physics   3   Physics of Diagnostic and Interventional Radiology   Dedicated
-  27   Physics Lab V, Health Physics track   2   Advanced topics laboratory   Dedicated
+  27   Physics Lab V, Health Physics track   2   Practical Sessions   Dedicated
 
   ***Other courses***
 
@@ -739,7 +739,7 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   35   Statistics   3   General Physics and Mathematics   Reinforced
   36   Physics Lab IV   2   General Physics and Mathematics   Reinforced
   37   Environmental Physics   3   General Physics and Mathematics   Reinforced
-  38   Physics Lab V (track-matched to the Health Physics elective choice)\*   2   Advanced topics laboratory   Dedicated
+  38   Physics Lab V (track-matched to the Health Physics elective choice)\*   2   Practical Sessions   Dedicated
   39   Entrepreneurship†   2   ---   ---
   40   International Language†   2   ---   ---
   41   Islamic Studies/Moral Studies†   2   ---   ---
@@ -803,15 +803,15 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   ---   ---   ---   Radiation Physics   ---
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  23   Scientific Project I   3   Research Project   Split
-  24   Scientific Project II   6   Research Project   Split
-  25   Research Methodology and Scientific Writing   2   Research Project   Split
+  23   Scientific Project I   3   Research Methodology   Split
+  24   Scientific Project II   6   Research Methodology   Split
+  25   Research Methodology and Scientific Writing   2   Research Methodology   Split
   ---   ---   ---   Medical Imaging Fundamentals   ---
   ---   ---   ---   Radiation Dosimetry   ---
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -901,13 +901,13 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   24   Radiation Physics and Radiobiology\*   3   Radiation Physics   Dedicated
   ---   ---   ---   Radiation Protection   ---
   25   Quality Management System in Science\*   3   Professional and Scientific Development   Dedicated
-  26   Bachelor Dissertation   6   Research Project   Dedicated
+  26   Bachelor Dissertation   6   Research Methodology   Dedicated
   ---   ---   ---   Medical Imaging Fundamentals   ---
   ---   ---   ---   Radiation Dosimetry   ---
   ---   ---   ---   Physics of Radiation Oncology   ---
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  27   Advanced Physics Practicals\*   3   Advanced topics laboratory   Dedicated
+  27   Advanced Physics Practicals\*   3   Practical Sessions   Dedicated
 
   ***Other courses***
 
@@ -961,13 +961,13 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   ---   ---   ---   Radiation Physics   ---
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  19   Medical Physics Project   8   Research Project   Dedicated
+  19   Medical Physics Project   8   Research Methodology   Dedicated
   20   Physics of Medical Imaging\*   4   Medical Imaging Fundamentals   Dedicated
   ---   ---   ---   Radiation Dosimetry   ---
   21   Physics of Radiotherapy   3   Physics of Radiation Oncology   Dedicated
   22   Nuclear Medicine   3   Physics of Nuclear Medicine   Dedicated
   23   Physics of Diagnostic Radiology   4   Physics of Diagnostic and Interventional Radiology   Dedicated
-  24   Medical Physics Practical   2   Advanced topics laboratory   Dedicated
+  24   Medical Physics Practical   2   Practical Sessions   Dedicated
 
   ***Other courses***
 
@@ -1033,7 +1033,7 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   ---   ---   ---   Radiation Physics   ---
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  32   Research Project in Medical Physics and Biomedical Engineering   30   Research Project   Dedicated
+  32   Research Project in Medical Physics and Biomedical Engineering   30   Research Methodology   Dedicated
   33   Introduction to Medical Imaging   15   Medical Imaging Fundamentals   Dedicated
   ---   ---   ---   Radiation Dosimetry   ---
   34   Treatment with Ionising Radiation   15   Physics of Radiation Oncology   Dedicated
@@ -1041,7 +1041,7 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   35   Biomedical Ultrasound   15   Physics of Diagnostic and Interventional Radiology   Split
   36   MRI and Biomedical Optics   15   Physics of Diagnostic and Interventional Radiology   Split
   37   Medical Imaging with Ionising Radiation   15   Physics of Diagnostic and Interventional Radiology   Split
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -1105,13 +1105,13 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   21   Nuclear and Radiation Physics   6   Radiation Physics   Dedicated
   ---   ---   ---   Radiation Protection   ---
   ---   ---   ---   Professional and Scientific Development   ---
-  22   Capstone Project   6   Research Project   Dedicated
+  22   Capstone Project   6   Research Methodology   Dedicated
   ---   ---   ---   Medical Imaging Fundamentals   ---
   23   Detection of Radiation: Neutrons, Electrons and X Rays   6   Radiation Dosimetry   Dedicated
   24   Physics of Radiotherapy   6   Physics of Radiation Oncology   Dedicated
   ---   ---   ---   Physics of Nuclear Medicine   ---
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -1169,14 +1169,14 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   16   Radiation Safety Management\*   2   Radiation Protection   Split
   17   Health Physics‡   2   Radiation Protection   Split
   ---   ---   ---   Professional and Scientific Development   ---
-  18   Academic/Research Training I‡   2   Research Project   Split
-  19   Academic/Research Training II‡   6   Research Project   Split
+  18   Academic/Research Training I‡   2   Research Methodology   Split
+  19   Academic/Research Training II‡   6   Research Methodology   Split
   ---   ---   ---   Medical Imaging Fundamentals   ---
   20   Radiation Detection‡   2   Radiation Dosimetry   Dedicated
   ---   ---   ---   Physics of Radiation Oncology   ---
   21   Nuclear Techniques in Medicine\*   2   Physics of Nuclear Medicine   Dedicated
   ---   ---   ---   Physics of Diagnostic and Interventional Radiology   ---
-  ---   ---   ---   Advanced topics laboratory   ---
+  ---   ---   ---   Practical Sessions   ---
 
   ***Other courses***
 
@@ -1256,8 +1256,8 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   19   Radiation Protection and Safety II   3   Radiation Protection   Split
   20   Biostatistics   3   Professional and Scientific Development   Split
   21   Ethics and Law for Health Professionals   3   Professional and Scientific Development   Split
-  22   Research Methodology   3   Research Project   Split
-  23   Research Project   8   Research Project   Split
+  22   Research Methodology   3   Research Methodology   Split
+  23   Research Project   8   Research Methodology   Split
   24   Diagnostic Radiology Imaging   4   Medical Imaging Fundamentals   Part of broader
   25   Fundamentals of Radiation Dosimetry   4   Radiation Dosimetry   Dedicated
   26   Brachytherapy   3   Physics of Radiation Oncology   Split
@@ -1274,7 +1274,7 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   37   Diagnostic Radiology Imaging   4   Physics of Diagnostic and Interventional Radiology   Split
   38   Diagnostic Radiology Imaging Techniques   4   Physics of Diagnostic and Interventional Radiology   Split
   39   Diagnostic Radiology Quality Assurance   4   Physics of Diagnostic and Interventional Radiology   Split
-  40   Professional Training   4   Advanced topics laboratory   Dedicated
+  40   Professional Training   4   Practical Sessions   Dedicated
 
   ***Other courses***
 
@@ -1306,7 +1306,7 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   **Core Physics+Maths % (CorePM%) --- share of total credit that is physics/mathematics among compulsory courses**   **11.0%**
   **Achievable Physics+Maths % (AchPM%) --- the most that share could reach by also choosing physics/mathematics electives**   **11.0%**
 
-***C.3 University C: Bachelor degree in Diagnostic Imaging***
+***C.3 University C: Bachelor degree in Diagnostic Imaging and Radiotherapy***
 
   ***TCS56 Mathematics & Physics***
 
@@ -1337,8 +1337,8 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   ---   ---   ---   Radiation Physics   ---
   8   Physics and Radiation Safety   3   Radiation Protection   Dedicated
   9   Ethics and Patient Care   3   Professional and Scientific Development   Dedicated
-  10   Research I   4   Research Project   Split
-  11   Research II   4   Research Project   Split
+  10   Research I   4   Research Methodology   Split
+  11   Research II   4   Research Methodology   Split
   12   Comparative Imaging   2   Medical Imaging Fundamentals   Split
   13   Digital Image Processing   2   Medical Imaging Fundamentals   Split
   14   Imaging Instrumentation   3   Medical Imaging Fundamentals   Split
@@ -1371,7 +1371,7 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   40   Clinical Practice in Diagnostic Imaging IV   3   Physics of Diagnostic and Interventional Radiology   Split
   41   Clinical Practice in Diagnostic Imaging V   5   Physics of Diagnostic and Interventional Radiology   Split
   42   Clinical Practice in Diagnostic Imaging VI   5   Physics of Diagnostic and Interventional Radiology   Split
-  43   Clinical Training   4   Advanced topics laboratory   Dedicated
+  43   Clinical Training   4   Practical Sessions   Dedicated
 
   ***Other courses***
 
@@ -1410,15 +1410,15 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   3   Applied Radiation Physics and Dosimetry   3   Radiation Physics   Part of broader
   4   Radiobiology and Radiation Protection   3   Radiation Protection   Part of broader
   5   Practicum/AI electives (2 of 4: Medical Imaging / Nuclear Medicine / Radiotherapy / Artificial Intelligence and Data Analysis in Medical Physics)   4   Professional and Scientific Development   Part of broader
-  6   Medical Physics Research Project I   7   Research Project   Split
-  7   Medical Physics Research Project II   8   Research Project   Split
-  8   Research Methodology   3   Research Project   Split
+  6   Medical Physics Research Project I   7   Research Methodology   Split
+  7   Medical Physics Research Project II   8   Research Methodology   Split
+  8   Research Methodology   3   Research Methodology   Split
   9   Medical Imaging and Nuclear Medicine   4   Medical Imaging Fundamentals   Part of broader
   10   Applied Radiation Physics and Dosimetry   3   Radiation Dosimetry   Part of broader
   11   Radiotherapy Physics   3   Physics of Radiation Oncology   Dedicated
   12   Medical Imaging and Nuclear Medicine   4   Physics of Nuclear Medicine   Part of broader
   13   Medical Imaging and Nuclear Medicine   4   Physics of Diagnostic and Interventional Radiology   Part of broader
-  14   Practicum/AI electives (2 of 4: Medical Imaging / Nuclear Medicine / Radiotherapy / Artificial Intelligence and Data Analysis in Medical Physics)   4   Advanced topics laboratory   Dedicated
+  14   Practicum/AI electives (2 of 4: Medical Imaging / Nuclear Medicine / Radiotherapy / Artificial Intelligence and Data Analysis in Medical Physics)   4   Practical Sessions   Dedicated
 
   ***Other courses***
 
@@ -1437,15 +1437,15 @@ Course marks: \* elective; † university course; ‡ major course; no mark = co
   4   Dosimetry and Radiation Protection   4   Radiation Protection   Part of broader
   5   Medical Physics Practical   4   Professional and Scientific Development   Split
   6   Medical Physics Practical II   4   Professional and Scientific Development   Split
-  7   Research Project   8   Research Project   Dedicated
+  7   Research Project   8   Research Methodology   Dedicated
   8   Physics of Diagnostic Radiology   4   Medical Imaging Fundamentals   Part of broader
   9   Dosimetry and Radiation Protection   4   Radiation Dosimetry   Part of broader
   10   Nuclear Medicine and Radiotherapy Physics   4   Physics of Radiation Oncology   Part of broader
   11   Nuclear Medicine and Radiotherapy Physics   4   Physics of Nuclear Medicine   Part of broader
   12   Physics of Diagnostic Radiology   4   Physics of Diagnostic and Interventional Radiology   Split
   13   Ultrasound and Magnetic Resonance Imaging   2   Physics of Diagnostic and Interventional Radiology   Split
-  14   Medical Physics Practical   4   Advanced topics laboratory   Split
-  15   Medical Physics Practical II   4   Advanced topics laboratory   Split
+  14   Medical Physics Practical   4   Practical Sessions   Split
+  15   Medical Physics Practical II   4   Practical Sessions   Split
 
   Total credit units required to graduate   40
   Course list total (cross-check; should equal C(p) above)   40
