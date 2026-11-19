@@ -42,14 +42,14 @@ cfg.profItems = {
  'Radiation Physics',                        'Rad. physics',  {'radiation physics'}
  'Radiation Protection',                     'Rad. protection',{'protection','safety','health physics'}
  'Professional and Scientific Development',  'Prof. dev.',    {'professional','ethic','quality management'}
- 'Research Project',                         'Research proj.',{'project','research','dissertation','capstone'}
+ 'Research Methodology',                     'Research meth.',{'project','research','dissertation','capstone'}
  'Medical Imaging Fundamentals',             'Imaging fund.', {'imaging','image'}
  'Radiation Dosimetry',                      'Dosimetry',     {'dosimetry','detection'}
  'Physics of Radiation Oncology',            'Rad. oncology', {'radiotherapy','oncology','brachytherapy','treatment'}
  'Physics of Nuclear Medicine',              'Nuc. medicine', {'nuclear medicine','radionuclide','nuclear techniques in medicine'}
  'Physics of Diagnostic and Interventional Radiology', 'Diag./interv. rad.', ...
                                              {'diagnostic','radiolog','radiograph','tomography','magnetic resonance','ultrasound'}
- 'Advanced topics laboratory',               'Adv. lab',      {'laborator','practical','lab '}
+ 'Practical Sessions',                       'Practical',     {'laborator','practical','lab '}
 };
 
 % Reinforcing (Other-group) mapping that counts as physics/mathematics
