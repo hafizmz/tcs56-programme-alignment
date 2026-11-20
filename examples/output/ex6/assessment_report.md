@@ -1,6 +1,6 @@
 # TCS-56 alignment: Example 6 - Student topic check
 
-Level: Bachelor. Input: Student (topics only). Generated 2026-11-16.
+Level: Bachelor. Input: Student (topics only). Generated 2026-11-20.
 
 ## Summary
 
@@ -36,13 +36,13 @@ Level: Bachelor. Input: Student (topics only). Generated 2026-11-16.
 | Radiation Physics | Dedicated | Medium | Radiation physics (Medium) |  |
 | Radiation Protection | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Professional and Scientific Development | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
-| Research Project | Dedicated | Medium | Final year project (Medium) |  |
+| Research Methodology | Dedicated | Medium | Final year project (Medium) |  |
 | Medical Imaging Fundamentals | Dedicated | Medium | Medical imaging (Medium) |  |
 | Radiation Dosimetry | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Radiation Oncology | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Nuclear Medicine | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Diagnostic and Interventional Radiology | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
-| Advanced topics laboratory | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
+| Practical Sessions | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 
 ## Gaps
 
