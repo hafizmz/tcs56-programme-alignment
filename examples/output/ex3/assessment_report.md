@@ -1,6 +1,6 @@
 # TCS-56 alignment: Example 3 - BSc Medical Imaging and Radiotherapy
 
-Level: Bachelor. Input: University (course list). Generated 2026-11-16.
+Level: Bachelor. Input: University (course list). Generated 2026-11-20.
 
 ## Summary
 
@@ -38,13 +38,13 @@ Level: Bachelor. Input: University (course list). Generated 2026-11-16.
 | Radiation Physics | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Radiation Protection | Dedicated | High | Radiation Protection and Safety (High) |  |
 | Professional and Scientific Development | Dedicated | High | Ethics and Professional Practice (High) |  |
-| Research Project | Split | High | Research Methodology (Medium); Research Project (High) |  |
+| Research Methodology | Split | High | Research Methodology (Medium); Research Project (High) |  |
 | Medical Imaging Fundamentals | Dedicated | High | Principles of Imaging (High) |  |
 | Radiation Dosimetry | Dedicated (elective only) | High | Radiation Dosimetry (High) | Reached only through electives: a graduate may not have taken it. |
 | Physics of Radiation Oncology | Split | High | Principles of Radiotherapy (High); Radiotherapy Treatment Planning (High); Clinical Practice II (Low) |  |
 | Physics of Nuclear Medicine | Dedicated | High | Nuclear Medicine Imaging (High) |  |
 | Physics of Diagnostic and Interventional Radiology | Split | Medium | General Radiography (Medium); Computed Tomography (Medium); Magnetic Resonance Imaging (Medium); Ultrasound Imaging (Medium) |  |
-| Advanced topics laboratory | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
+| Practical Sessions | Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 
 ## Gaps
 
