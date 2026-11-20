@@ -497,7 +497,10 @@ end
 
 function s = toStr(x)
 if iscell(x), x = x{1}; end
-if isnumeric(x), x = num2str(x); end
+if isnumeric(x)
+    % an all-empty CSV column is read as NaN: treat it as no text
+    if isempty(x) || all(isnan(x(:))), x = ''; else, x = num2str(x); end
+end
 if isempty(x), s = ''; else, s = char(x); end
 end
 
