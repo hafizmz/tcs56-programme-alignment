@@ -1,6 +1,6 @@
 # TCS-56 alignment: Example 2 - BSc Industrial Physics (titles only)
 
-Level: Bachelor. Input: University (course list). Generated 2026-11-16.
+Level: Bachelor. Input: University (course list). Generated 2026-11-20.
 
 ## Summary
 
@@ -38,13 +38,13 @@ Level: Bachelor. Input: University (course list). Generated 2026-11-16.
 | Radiation Physics | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Radiation Protection | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Professional and Scientific Development | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
-| Research Project | Split; App. A: Split | Medium | Scientific Project I (Medium); Scientific Project II (Medium) |  |
+| Research Methodology | Split; App. A: Split | Medium | Scientific Project I (Medium); Scientific Project II (Medium) |  |
 | Medical Imaging Fundamentals | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Radiation Dosimetry | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Radiation Oncology | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Nuclear Medicine | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Diagnostic and Interventional Radiology | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
-| Advanced topics laboratory | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
+| Practical Sessions | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 
 ## Gaps
 
