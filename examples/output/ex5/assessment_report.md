@@ -1,6 +1,6 @@
 # TCS-56 alignment: Example 5 - BSc Physics with Medical Physics (UK credits)
 
-Level: Bachelor. Input: University (course list). Generated 2026-11-16.
+Level: Bachelor. Input: University (course list). Generated 2026-11-20.
 
 ## Summary
 
@@ -38,13 +38,13 @@ Level: Bachelor. Input: University (course list). Generated 2026-11-16.
 | Radiation Physics | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Radiation Protection | Dedicated (elective only); App. A: Not covered | High | Radiation Protection (High) | Reached only through electives: a graduate may not have taken it. |
 | Professional and Scientific Development | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
-| Research Project | Dedicated; App. A: Dedicated | High | Research Project (High) |  |
+| Research Methodology | Dedicated; App. A: Dedicated | High | Research Project (High) |  |
 | Medical Imaging Fundamentals | Dedicated; App. A: Dedicated | High | Introduction to Medical Imaging (High) |  |
 | Radiation Dosimetry | Not covered; App. A: Not covered |  |  | No undergraduate exposure found. TCS-56 places this item in the postgraduate curriculum, so this is not a bachelor's-level gap. |
 | Physics of Radiation Oncology | Dedicated; App. A: Dedicated | High | Treatment with Ionising Radiation (High) |  |
 | Physics of Nuclear Medicine | Dedicated (elective only); App. A: Not covered | High | Nuclear Medicine and PET (High) | Reached only through electives: a graduate may not have taken it. |
 | Physics of Diagnostic and Interventional Radiology | Part of broader; App. A: Split | Medium | Introduction to Medical Imaging (Medium) | Covered inside a broader course; depth is not guaranteed. |
-| Advanced topics laboratory | Part of broader; App. A: Not covered | High | Practical Physics and Computing (High) | Covered inside a broader course; depth is not guaranteed. |
+| Practical Sessions | Part of broader; App. A: Not covered | High | Practical Physics and Computing (High) | Covered inside a broader course; depth is not guaranteed. |
 
 ## Gaps
 
