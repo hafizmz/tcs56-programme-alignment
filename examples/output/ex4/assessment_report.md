@@ -1,6 +1,6 @@
 # TCS-56 alignment: Example 4 - MSc Medical Physics
 
-Level: Master. Input: University (course list). Generated 2026-11-16.
+Level: Master. Input: University (course list). Generated 2026-11-20.
 
 ## Summary
 
@@ -35,13 +35,13 @@ Level: Master. Input: University (course list). Generated 2026-11-16.
 | Radiation Physics | Dedicated; App. A: Part of broader | High | Radiation Physics (High) |  |
 | Radiation Protection | Dedicated; App. A: Part of broader | High | Radiation Protection (High) |  |
 | Professional and Scientific Development | Dedicated; App. A: Part of broader | High | Professional Development in Medical Physics (High) |  |
-| Research Project | Dedicated; App. A: Split | High | Research Project (High) |  |
+| Research Methodology | Dedicated; App. A: Split | High | Research Project (High) |  |
 | Medical Imaging Fundamentals | Dedicated; App. A: Part of broader | High | Medical Imaging Physics (High) |  |
 | Radiation Dosimetry | Dedicated; App. A: Part of broader | High | Radiation Dosimetry (High) |  |
 | Physics of Radiation Oncology | Dedicated; App. A: Dedicated | High | Radiotherapy Physics (High) |  |
 | Physics of Nuclear Medicine | Dedicated; App. A: Part of broader | High | Nuclear Medicine Physics (High) |  |
 | Physics of Diagnostic and Interventional Radiology | Part of broader; App. A: Part of broader | Medium | Medical Imaging Physics (Medium) | Covered inside a broader course; depth is not guaranteed. |
-| Advanced topics laboratory | Dedicated; App. A: Dedicated | High | Medical Physics Laboratory (High) |  |
+| Practical Sessions | Dedicated; App. A: Dedicated | High | Medical Physics Laboratory (High) |  |
 
 ## Gaps
 
